@@ -45,6 +45,8 @@
 </style>
 
 <div class="logos">
+	
+	<a target="_blank" rel="noopener" href="https://www.steembeem.com"><img src="organisations/steembeem.png" alt="SteemBeem logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://1password.com"><img src="organisations/1password.png" alt="1Password logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ablab.de"><img src="organisations/ablab.svg" alt="ABLab logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="https://res.cloudinary.com/phonerefer/image/upload/v1583170060/pz0ugqznbzfjbjojb59o.png" alt="PhoneRefer" loading="lazy"></a>
